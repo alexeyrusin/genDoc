@@ -111,7 +111,7 @@ class Ui_MainWindow(object):
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
-        MainWindow.setWindowTitle(_translate("genDoc", "genDoc"))
+        MainWindow.setWindowTitle(_translate("genDoc", "genDoc v0.1b"))
         self.label_3.setText(_translate("MainWindow", "Выберите папку для сохранения созданных файлов"))
         self.label_2.setText(_translate("MainWindow", "Выберите папку с шаблонами"))
         self.toolButton.setText(_translate("MainWindow", "..."))
